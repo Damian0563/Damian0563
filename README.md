@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**Damian0563/Damian0563** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student at **Warsaw University of Technology** studying Computer Science, doing internships and developing personal projects on the side in the fields of 
+**Web development** and **Machine Learning**.
 
-Here are some ideas to get you started:
+### 🔭 What I'm currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Codraw:** An interactive whiteboard platform designed for real-time collaboration.
+* **Algorithms & Data Structures:** Sharpening my skills by working on these fundamentals in C++.
+* **Project Refactoring:** Updating the styling of some of my older projects to give them a fresh look.
+
+### 🌱 What I'm currently learning
+
+* **System design** (currently reading a book 'Designing Data-Intensive Applications' by Martin Kleppmann)
+* **Natural language processing**
+* **C++**, **Javascript(Vue)**, **Python**
+
+### 🧬 Technologies i am familiar with
+
+* Python(Django, Flask, sci-kit learn, TensorFlow)
+* Javascript(Vue,node.js,express.js)
+* MongoDB, PostgreSQL & SQL
+* HTML, CSS & Bootstrap
+* C++(theoritical knowledge)
+
+### 📫 How to reach me
+
+Feel free to connect at **damian.piechocki05@gmail.com** I'm always open to chatting about new projects and opportunities!
+
