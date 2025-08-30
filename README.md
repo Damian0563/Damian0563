@@ -10,7 +10,7 @@ I am a student at **Warsaw University of Technology** studying Computer Science,
 * Javascript(Vue,node.js,express.js)
 * MongoDB, PostgreSQL & SQL
 * HTML, CSS & Bootstrap
-* C++(theoritical knowledge)
+* Git & Docker
 ### 📫 How to reach me
 Feel free to connect at **damian.piechocki05@gmail.com** I'm always open to chatting about new projects and opportunities!
 
