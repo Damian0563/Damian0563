@@ -4,13 +4,15 @@ I am a student at **Warsaw University of Technology** studying Computer Science,
 ### 🔭 What I'm currently working on
 * **<a href="https://github.com/Damian0563/CoDraw">Codraw:</a>** An interactive whiteboard platform designed for real-time collaboration.
 * **Algorithms & Data Structures:** Sharpening my skills by working on these fundamentals in C++.
-* **Project Refactoring:** Updating the styling of some of my older projects to give them a fresh look.
+
 ### 🧬 Technologies i am familiar with
 * Python(Django, Flask, sci-kit learn, TensorFlow)
 * Javascript(Vue,node.js,express.js)
 * MongoDB, PostgreSQL & SQL
-* HTML, CSS & Bootstrap
+* Google Cloud Platform(Cloud run, Cloud Scheduler, BigQuery, Google Cloud Storage, VertexAI)
 * Git & Docker
+* HTML, CSS & Bootstrap
+  
 ### 📫 How to reach me
 Feel free to connect at **damian.piechocki05@gmail.com** I'm always open to chatting about new projects and opportunities!
 
