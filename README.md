@@ -6,7 +6,7 @@ I am a student at **Warsaw University of Technology** studying Computer Science,
 * **Algorithms & Data Structures:** Sharpening my skills by working on these fundamentals in C++.
 
 ### 🧬 Technologies i am familiar with
-* Python(Django, Flask, sci-kit learn, TensorFlow)
+* Python(Django, Flask, sci-kit learn, TensorFlow, numpy, pandas)
 * Javascript(Vue,node.js,express.js)
 * MongoDB, PostgreSQL & SQL
 * Google Cloud Platform(Cloud run, Cloud Scheduler, BigQuery, Google Cloud Storage, VertexAI)
