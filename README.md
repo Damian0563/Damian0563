@@ -3,7 +3,6 @@ I am a student at **Warsaw University of Technology** studying Computer Science,
 **Web development** and **Machine Learning**.
 ### 🔭 What I'm currently working on
 * **<a href="https://github.com/Damian0563/CoDraw">Codraw:</a>** An interactive whiteboard platform designed for real-time collaboration.
-* **Algorithms & Data Structures:** Sharpening my skills by working on these fundamentals in C++.
 
 ### 🧬 Technologies i am familiar with
 * Python(Django, Flask, sci-kit learn, TensorFlow, numpy, pandas)
