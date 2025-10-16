@@ -3,6 +3,7 @@ I am a student at **Warsaw University of Technology** studying Computer Science,
 **Web development** and **Machine Learning**.
 ### 🔭 What I'm currently working on
 * **<a href="https://github.com/Damian0563/CoDraw">Codraw:</a>** An interactive whiteboard platform designed for real-time collaboration.
+* **<a href="https://github.com/Damian0563/GoSpider">GoSpider</a>** A recursive web crawler with search engine-like capabilities.
 
 ### 🧬 Technologies i am familiar with
 * Python(Django, Flask, sci-kit learn, TensorFlow, numpy, pandas)
