@@ -4,7 +4,7 @@ I am a student at **Warsaw University of Technology** studying Computer Science,
 ### 🔭 What I'm currently working on
 * **<a href="https://github.com/Damian0563/GoSpider">GoSpider</a>** A recursive web crawler with search engine-like capabilities.
 ### 👨‍🔧 What I'm actively maintaining
-# **<a href="https://github.com/Damian0563/CoDraw">Codraw:</a>**(https://codrawapp.com/)
+* **<a href="https://github.com/Damian0563/CoDraw">Codraw:</a>** (https://codrawapp.com/)
 
 ### 🧬 Technologies i am familiar with
 * Python(Django, Flask, sci-kit learn, TensorFlow, numpy, pandas)
