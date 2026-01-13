@@ -9,9 +9,9 @@ I am a student at **Warsaw University of Technology** studying Computer Science,
 ### 🧬 Technologies i am familiar with
 * Python(Django, Flask, sci-kit learn, TensorFlow, numpy, pandas)
 * Javascript(Vue,node.js,express.js)
-* MongoDB, PostgreSQL & SQL
-* Google Cloud Platform(Cloud run, Cloud Scheduler, BigQuery, Google Cloud Storage, VertexAI)
-* Git & Docker
+* MongoDB, PostgreSQL, SQL & Redis
+* Google Cloud Platform(Cloud run, Cloud Scheduler, BigQuery, Google Cloud Storage, VertexAI, Compute Engine)
+* Git, Docker & Kubernetes
 * HTML, CSS & Bootstrap
   
 ### 📫 How to reach me
