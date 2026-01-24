@@ -1,9 +1,8 @@
 ## Hi there 👋
 I am a student at **Warsaw University of Technology** studying Computer Science, doing internships and developing personal projects on the side in the fields of 
 **Web development** and **Machine Learning**.
-### 🔭 What I'm currently working on
-* **<a href="https://github.com/Damian0563/GoSpider">GoSpider</a>** A recursive web crawler with search engine-like capabilities.
-### 👨‍🔧 What I'm actively maintaining
+
+### 👨‍🔧 What I'm actively maintaining and developing
 * **<a href="https://github.com/Damian0563/CoDraw">Codraw:</a>** (https://codrawapp.com/)
 
 ### 🧬 Technologies i am familiar with
@@ -11,7 +10,7 @@ I am a student at **Warsaw University of Technology** studying Computer Science,
 * Javascript(Vue,node.js,express.js)
 * MongoDB, PostgreSQL, SQL & Redis
 * Google Cloud Platform(Cloud run, Cloud Scheduler, BigQuery, Google Cloud Storage, VertexAI, Compute Engine)
-* Git, Docker & Kubernetes
+* Git, Docker, Kubernetes, Nginx 
 * HTML, CSS & Bootstrap
   
 ### 📫 How to reach me
