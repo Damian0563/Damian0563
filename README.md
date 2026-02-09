@@ -8,10 +8,10 @@ I am a student at **Warsaw University of Technology** studying Computer Science,
 ### 🧬 Technologies i am familiar with
 * Python(Django, Flask, sci-kit learn, TensorFlow, numpy, pandas)
 * Javascript(Vue,node.js,express.js)
+* Golang
 * MongoDB, PostgreSQL, SQL & Redis
 * Google Cloud Platform(Cloud run, Cloud Scheduler, BigQuery, Google Cloud Storage, VertexAI, Compute Engine)
 * Git, Docker, Kubernetes, Nginx 
-* HTML, CSS & Bootstrap
   
 ### 📫 How to reach me
 Feel free to connect at **damian.piechocki05@gmail.com** I'm always open to chatting about new projects and opportunities!
