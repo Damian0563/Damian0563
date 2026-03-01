@@ -1,4 +1,3 @@
-## Hi there 👋
 I am a student at **Warsaw University of Technology** studying Computer Science doing internships and developing personal projects on the side in the fields of 
 **Web development** and **Machine Learning**.
 ### 👨‍🔧 What I'm actively maintaining and developing
