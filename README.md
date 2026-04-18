@@ -2,7 +2,7 @@ I am a student at **Warsaw University of Technology** studying Computer Science,
 **Web development** & **Cloud computing**.
 ### 👨‍🔧 What I'm actively maintaining and developing
 * **<a href="https://github.com/Damian0563/CoDraw">Codraw:</a>** (https://codrawapp.com/)
-* **<a href="https://github.com/Damian0563/CloudDrop">CloudDrop</a>** ONGOING REWORK, PARTIAL OPERABILITY
+* **<a href="https://github.com/Damian0563/CloudDrop">CloudDrop</a>** 
 * **<a href="https://github.com/Damian0563/Metricraft">Metricraft</a>**
 ### 🧬 Technologies i am familiar with
 * Python (Django, Flask)
@@ -10,7 +10,6 @@ I am a student at **Warsaw University of Technology** studying Computer Science,
 * Golang
 * MongoDB, PostgreSQL, SQL, Redis & Kafka
 * Google Cloud Platform, Azure
-* Git, Docker, Kubernetes, Nginx
+* Git, Docker, Nginx
 ##
-<sup>Please be advised I have used these technologies in practise either in my projects or during my commercial work as a SWE. By listing these technologies I do not claim that I know by heart all intricacies of these services/programming languages i.e I do not know all there is to Azure- it is to broad of a ecosystem for a single person to fully understand all the details, etc.</sup>
 
