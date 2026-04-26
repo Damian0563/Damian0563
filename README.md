@@ -5,9 +5,7 @@ I am a student at **Warsaw University of Technology** studying Computer Science,
 * **<a href="https://github.com/Damian0563/CloudDrop">CloudDrop</a>** 
 * **<a href="https://github.com/Damian0563/Metricraft">Metricraft</a>**
 ### 🧬 Technologies i am familiar with
-* Python (Django, Flask)
-* Typescript (Nuxt,Vue,node.js)
-* Golang
+* Python (Django, Flask), Typescript (Nuxt,Vue,node.js), Golang
 * MongoDB, PostgreSQL, SQL, Redis & Kafka
 * Google Cloud Platform, Azure
 * Git, Docker, Nginx
