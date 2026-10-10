@@ -8,6 +8,6 @@ Technologies i am familiar with
 * Python (Django, Flask), Typescript (Nuxt,Vue,node.js), Golang
 * MongoDB, PostgreSQL, SQL, Redis & Kafka
 * Google Cloud Platform, Azure
-* Git, Docker, Nginx
+* Git, Docker, Nginx, Terraform
 ##
 
